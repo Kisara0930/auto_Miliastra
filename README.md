@@ -1,4 +1,5 @@
 # auto_Miliastra
+# 原神千星奇域自动刷奇域, 一键挂机完成千星奇域任务, 快速刷奖励
 - 在原神千星奇域里搜索一键完成的奇域, 然后随便选一个
 - <img width="800" height="460" alt="image" src="https://github.com/user-attachments/assets/6a953b92-52c4-41b2-9816-649777f1e0c5" />
 - 进入房间并准备
