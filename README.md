@@ -22,4 +22,5 @@ pip install -r requirements.txt
 python auto_Miliastra.py
 ```
 ## 其他
+- 纯视觉实现opencv, 理论上不会出事
 - 本人运行了131次, 共耗时1小时(机械硬盘), 未见异常
